@@ -1,4 +1,4 @@
-# Hi there! 👋 I'm Julie (@Jskullz)
+# Hi there! 👋 I'm Julie
 
 - 👀 I’m interested in learning, coding projects, and reading.
 - 🌱 I’m currently learning Python and doing the 100 days of code course.
